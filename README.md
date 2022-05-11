@@ -1,1 +1,1 @@
-# Simple-Image-recognition
+# Simple-Image-recognition written in python
